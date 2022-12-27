@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivamrvgupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivamrvgupta&theme=dark&hide_border=false)<br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrvgupta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=shivamrvgupta&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/><br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivamrvgupta&theme=gruvbox&hide_border=false)<br/><br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrvgupta&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivamrvgupta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shivamrvgupta&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 📊 Holopin board:
