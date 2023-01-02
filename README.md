@@ -10,9 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🌐 Socials:
-<a href="mailto:abhijoshi2k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamrvgupta/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shivamrvgupta04) 
+<a href="mailto:shivamrvgupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/shivamrvgupta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://twitter.com/shivamrvgupta04"><img src="https://img.shields.io/badge/Twitter-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+
 
 
 ## 📊 GitHub Stats:
