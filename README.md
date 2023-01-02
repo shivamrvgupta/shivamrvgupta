@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamrvgupta
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning B.E (ECS)
-- 🔤 Known languages HTML, CSS, JS, Python, Django, NodeJS, C++, and few others..
+- 🔤 Known languages HTML, CSS, JS, Python, Django, NodeJS  , C++, and few others..
 - 📫 How to reach me shivamrvgupta@gmail.com
 
 <!---
