@@ -197,26 +197,20 @@ A few areas I have worked across:
 
 ### GitHub
 
-Most of my work happens across private production systems and public projects, so the public profile represents only part of what I build.
+Most of my work happens in private repositories and production systems, so the public profile is only a small part of what I build.
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/1-repos-per-language/0-repos-per-language.svg"
-    height="165"
-    alt="Repositories per language"
-  />
-  <img
-    src="./profile-summary-card-output/2-most-commit-language/0-most-commit-language.svg"
-    height="165"
-    alt="Most committed languages"
-  />
+  <img src="./profile-summary-card-output/zenburn/0-profile-details.svg" height="165">
 </p>
 
 <p align="center">
-  <img
-    src="./profile-summary-card-output/3-stats/0-profile-details.svg"
-    alt="GitHub profile statistics"
-  />
+  <img src="./profile-summary-card-output/zenburn/1-repos-per-language.svg" height="165">
+  <img src="./profile-summary-card-output/zenburn/2-most-commit-language.svg" height="165">
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/zenburn/3-stats.svg" height="165">
+  <img src="./profile-summary-card-output/zenburn/4-productive-time.svg" height="165">
 </p>
 
 ---
